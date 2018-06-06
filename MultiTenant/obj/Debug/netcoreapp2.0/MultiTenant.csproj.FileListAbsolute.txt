@@ -1,0 +1,22 @@
+C:\Users\Luigi\Documents\Visual Studio 2017\Projects\MultiTenant\MultiTenant\bin\Debug\netcoreapp2.0\MultiTenant.deps.json
+C:\Users\Luigi\Documents\Visual Studio 2017\Projects\MultiTenant\MultiTenant\bin\Debug\netcoreapp2.0\MultiTenant.runtimeconfig.json
+C:\Users\Luigi\Documents\Visual Studio 2017\Projects\MultiTenant\MultiTenant\bin\Debug\netcoreapp2.0\MultiTenant.runtimeconfig.dev.json
+C:\Users\Luigi\Documents\Visual Studio 2017\Projects\MultiTenant\MultiTenant\bin\Debug\netcoreapp2.0\MultiTenant.dll
+C:\Users\Luigi\Documents\Visual Studio 2017\Projects\MultiTenant\MultiTenant\obj\Debug\netcoreapp2.0\MultiTenant.csprojResolveAssemblyReference.cache
+C:\Users\Luigi\Documents\Visual Studio 2017\Projects\MultiTenant\MultiTenant\obj\Debug\netcoreapp2.0\MultiTenant.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Documents\Visual Studio 2017\Projects\MultiTenant\MultiTenant\obj\Debug\netcoreapp2.0\MultiTenant.AssemblyInfoInputs.cache
+C:\Users\Luigi\Documents\Visual Studio 2017\Projects\MultiTenant\MultiTenant\obj\Debug\netcoreapp2.0\MultiTenant.AssemblyInfo.cs
+C:\Users\Luigi\Documents\Visual Studio 2017\Projects\MultiTenant\MultiTenant\bin\Debug\netcoreapp2.0\MultiTenant.pdb
+C:\Users\Luigi\Documents\Visual Studio 2017\Projects\MultiTenant\MultiTenant\obj\Debug\netcoreapp2.0\MultiTenant.dll
+C:\Users\Luigi\Documents\Visual Studio 2017\Projects\MultiTenant\MultiTenant\obj\Debug\netcoreapp2.0\MultiTenant.pdb
+L:\Google Drive\_apresentações\VSSummit\cod\MultiTenant\MultiTenant\bin\Debug\netcoreapp2.0\MultiTenant.deps.json
+L:\Google Drive\_apresentações\VSSummit\cod\MultiTenant\MultiTenant\bin\Debug\netcoreapp2.0\MultiTenant.runtimeconfig.json
+L:\Google Drive\_apresentações\VSSummit\cod\MultiTenant\MultiTenant\bin\Debug\netcoreapp2.0\MultiTenant.runtimeconfig.dev.json
+L:\Google Drive\_apresentações\VSSummit\cod\MultiTenant\MultiTenant\bin\Debug\netcoreapp2.0\MultiTenant.dll
+L:\Google Drive\_apresentações\VSSummit\cod\MultiTenant\MultiTenant\bin\Debug\netcoreapp2.0\MultiTenant.pdb
+L:\Google Drive\_apresentações\VSSummit\cod\MultiTenant\MultiTenant\obj\Debug\netcoreapp2.0\MultiTenant.csproj.CoreCompileInputs.cache
+L:\Google Drive\_apresentações\VSSummit\cod\MultiTenant\MultiTenant\obj\Debug\netcoreapp2.0\MultiTenant.AssemblyInfoInputs.cache
+L:\Google Drive\_apresentações\VSSummit\cod\MultiTenant\MultiTenant\obj\Debug\netcoreapp2.0\MultiTenant.AssemblyInfo.cs
+L:\Google Drive\_apresentações\VSSummit\cod\MultiTenant\MultiTenant\obj\Debug\netcoreapp2.0\MultiTenant.dll
+L:\Google Drive\_apresentações\VSSummit\cod\MultiTenant\MultiTenant\obj\Debug\netcoreapp2.0\MultiTenant.pdb
+L:\Google Drive\_apresentações\VSSummit\cod\MultiTenant\MultiTenant\obj\Debug\netcoreapp2.0\MultiTenant.csprojAssemblyReference.cache
